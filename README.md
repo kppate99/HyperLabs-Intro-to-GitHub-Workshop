@@ -4,7 +4,7 @@ Test Repository for HyperLabs Intro to GitHub Workshop
 # Kush Patel
 
 ### About Me
-- I'm a student studying **Interdisciplinary Studies with a focus in Mechanical Engineering, Product Innovation, and Venture Creation ** at **Virginia Commonwealth University**.
+- I'm a student studying **Interdisciplinary Studies with a focus in Mechanical Engineering, Product Innovation, and Venture Creation** at **Virginia Commonwealth University**.
 -  I’m currently learning **[Languages/Technologies, e.g., Python, React, Git]**.
 -  Interested in **[Software Engineering, Data Science, Web Development, etc.]**.
 -  Ask me about **[Topics you feel comfortable helping with]**.
